@@ -3,6 +3,8 @@
 
 I am presenting to you the command prompt script I compiled for use on my personal computer.
 
+You can use it on Windows 7/8/10/11 operating systems.
+
 ## 📌 Screenshots
 ![screenshot](screenshot-1.png "CMD Scripts")
 
@@ -17,6 +19,22 @@ I am presenting to you the command prompt script I compiled for use on my person
 4. Select channels and click **Check** to test only those channels.
 5. Use **Sort** to sort channels A-Z or by status.
 6. Click **Download Modified M3U** when you are done.
+
+---
+
+> [!NOTE]
+> 🕰️ Updated on July 10, 2026
+
+---
+<p align="center">❤️ Made with Love ❤️</p>
+
+---
+
+
+
+
+## 📌 How to Use
+You can download the scripts.cmd to your computer, right-click the setup.inf installation file and select install, or download the file from the releases folder and run it as administrator.
 
 ---
 
