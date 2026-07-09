@@ -9,12 +9,13 @@ You can use it on Windows 7/8/10/11 operating systems.
 ![screenshot](screenshot-1.png "CMD Scripts")
 
 ## 📌 Main Features
-- Hibernate mode on or off
-- Onedrive complete uninstall
-- For Microsoft Windows 11 Home & Home Single Edition Local Security Principle
+- `Hibernate mode` on or off
+- `Onedrive` complete uninstall
+- For Microsoft Windows 11 Home & Home Single Edition `Local Security Principle` `(gpedit.msc)`
+- Modifying the contents of the `C:\Windows\system32\drivers\hosts` file and ensuring that the file is copied back to the same folder every time you turn on your computer. The hosts file has been updated to block `CCleaner`, `Internet Download Manager` and `Adobe` servers.
 
 ## 📌 How to Use
-Download the scripts.cmd file to your computer and start using it by running it as administrator.
+Download the `CMDScripts.cmd` file to your computer and start using it by running it as administrator.
 
 ---
 
