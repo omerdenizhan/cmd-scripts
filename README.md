@@ -6,7 +6,7 @@ I am presenting to you the command prompt script I compiled for use on my person
 You can use it on Windows 7/8/10/11 operating systems.
 
 ## 📌 Screenshots
-![screenshot](screenshot-1.png "CMD Scripts")
+![screenshot](screenshot-1.png "Batch Scripts")
 
 ## 📌 Main Features
 - `Hibernate mode` on or off
